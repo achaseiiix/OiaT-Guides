@@ -1,13 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{page.title}}</title>
-    <link rel="stylesheet" href="/css/styles.css">
-</head>
-<body>
-	{% include navbar.html %}
+---
+layout: default
+---
 
+<style>
+	.post-container {
+		padding: 44px;
+	}
+</style>
+
+<div class="post-container">
 	{% if page.title%}
 		<h1>{{page.title}}</h1>
 	{% else %}
@@ -15,8 +16,4 @@
 	{% endif %}
 	{{ page.date | date: "%b %d, %Y" }}
 	{{ content }}
-
-</body>
-    {% include footer.html %}
-</html>
-
+</div>
