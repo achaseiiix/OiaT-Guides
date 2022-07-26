@@ -1,0 +1,64 @@
+<style>
+
+  ul {
+    list-style-type: none;
+    display: flex;
+  }
+
+  .nav-link {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: auto;
+    transition: 0.3s;
+    margin-right: 5px;
+    color: white;
+  }
+
+  .nav-link:hover {
+    background-color: #FFF;
+    border-radius: 10px;
+    color: black;
+  }
+
+  .navbar{
+    background: rgb(169,32,219);
+    background: linear-gradient(22deg, rgba(169,32,219,1) 35%, rgba(96,160,252,1) 100%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+    flex-wrap: wrap;
+  }
+
+  .title {
+    display: flex;
+    padding: 5px;
+    color: white;
+  }
+
+  .title > a {
+    color: rgb(255, 255, 255);
+  }
+
+  .title > a:hover {
+    color: rgb(0, 0, 0);
+  }
+
+  .nav-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 0;
+  }
+</style>
+
+<nav class="navbar">
+  <h2 class="title"><a href="/">{{ site.title }}</a></h2>
+
+  <ul class="nav-container">
+    <a class="nav-link" href="/guides/">Guides</a>
+    <a class="nav-link" href="/calculators/">Calculators</a>
+  </ul>
+</nav>

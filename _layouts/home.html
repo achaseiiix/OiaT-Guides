@@ -1,0 +1,84 @@
+---
+layout: default
+---
+<style>
+
+    a {
+        color: black;
+    }
+
+    a:hover {
+        color: rgb(169,32,219);
+    }
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 50px;
+        justify-content: center;
+    }
+
+    .post-container {
+        width: 100%;
+        color: rgba(0,0,0,0.2);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 50px;
+        text-align: center;
+    }
+
+    .post {
+        margin: 0 auto 0 auto;
+        display: inline-block;
+        background: linear-gradient(2deg, #52BE3E 10%, rgba(96,160,252,1) 100%);
+        padding: 10px;
+        border-radius: 25px;
+        box-shadow: 3px 3px;
+        width: 220px;
+    }
+
+    .post-image{
+        object-fit: contain;
+        width: 200px;
+        height: 200px;
+        vertical-align: middle;
+        border-radius: 15px;
+        transition: .1s;
+    }
+
+    .post-image:hover {
+        transform: scale(0.9)
+    }
+
+    .post-title {
+        text-align: center;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .post-desc {
+        text-align: center;
+        margin-bottom: 10px;
+        margin-top: 5px;
+        font-size: 12px;
+    }
+
+</style>
+
+<div class="container">
+    <ul class="post-container">
+        {% for post in site.posts limit:12 %}
+            <div class="post">
+                <a href="{{ post.url | relative_url }}">
+                    <img class="post-image" src="{{post.image}}">
+                </a>
+                <a href="{{ post.url | relative_url }}">
+                    <p class="post-title">{{post.title}}</p>
+                    <p class="post-desc">{{post.description}}</p>
+                </a>
+            </div>
+        {% endfor %}
+    </ul>
+</div>

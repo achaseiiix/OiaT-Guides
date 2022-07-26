@@ -1,0 +1,21 @@
+<!--default.html-->
+<style>
+    .spacer {
+        height: 50px;
+    }
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{page.title}}</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+	{% include navbar.html %}
+    {{ content }}
+    <div class="spacer"></div>
+</body>
+    {% include footer.html %}
+</html>
