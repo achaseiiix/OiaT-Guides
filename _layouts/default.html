@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <title>{{page.title}}</title>
-    <link rel="stylesheet" href="{{ root_url }}/css/styles.css">
+    <link rel="stylesheet" href="{{ '/css/styles.css' | prepend: site.baseurl }}">
 </head>
 <body>
 	{% include navbar.html %}
