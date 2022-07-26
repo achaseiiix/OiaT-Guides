@@ -6,7 +6,7 @@ layout: default
     ul {
         padding-inline-start: 0px;
     }
-    
+
     a {
         color: black;
     }
@@ -69,6 +69,10 @@ layout: default
         font-size: 12px;
     }
 
+    .post-author {
+        font-size: 10px;
+    }
+
 </style>
 
 <div class="container">
@@ -81,6 +85,7 @@ layout: default
                 <a href="{{ post.url | relative_url }}">
                     <p class="post-title">{{post.title}}</p>
                     <p class="post-desc">{{post.description}}</p>
+                    <p class="post-author">By {{post.author}} on {{ post.date | date: "%-d %B %Y" }}</p>
                 </a>
             </div>
         {% endfor %}

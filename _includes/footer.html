@@ -3,7 +3,7 @@
       background: rgb(169,32,219);
       background: linear-gradient(22deg, rgba(169,32,219,1) 35%, rgba(96,160,252,1) 100%);
       display: flex;
-      justify-content: space-between;
+      justify-content: center;
       padding: 0px 20px 0px 20px;
       flex-wrap: wrap;
       position: absolute;
@@ -17,8 +17,34 @@
       padding: 5px;
       color: white;
     }
+
+    .social {
+      height: 35px;
+      color: white;
+      margin: 0 10 0 10;
+    }
+
+    .social-icons {
+      margin: auto;
+      margin-right: 5px;
+      justify-content: center;
+      display: flex;
+      flex-wrap: wrap;
+      text-align: center;
+    }
 </style>
   
 <nav class="footer">
     <h2 class="title">A Community Guide Page</h2>
+    <div class="social-icons">
+      <a href="https://discord.gg/TWNGeZdq"target="_blank">
+          <img src="{{site.baseurl}}images\\Discord-Logo+Wordmark-White.png" class="social">
+      </a>
+      <a href="https://apps.apple.com/us/app/one-in-a-trillion/id1526276749"target="_blank">
+        <img src="{{site.baseurl}}images\\Apple.png" class="social">
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.hamlab.oneInATrillion&hl=en_US&gl=US" target="_blank">
+        <img src="{{site.baseurl}}images\\google-play-badge.png" class="social">
+      </a>  
+    </div>
 </nav>
