@@ -1,7 +1,7 @@
 <!--default.html-->
 <style>
-    .spacer {
-        height: 50px;
+    .wrapper {
+        min-height: 81.5vh;
     }
 
 </style>
@@ -16,8 +16,9 @@
 </head>
 <body>
 	{% include navbar.html %}
-    {{ content }}
-    <div class="spacer"></div>
-</body>
+    <div class="wrapper">
+        {{ content }}
+    </div>
     {% include footer.html %}
+</body>
 </html>
