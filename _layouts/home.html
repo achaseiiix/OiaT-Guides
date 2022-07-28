@@ -80,18 +80,26 @@ layout: default
         font-size: 10px;
     }
 
+    .bold-link {
+        font-weight: 600;
+    }
+
 </style>
 
 <div class="container">
     <div class="intro">
         <h1>Welcome to the One in a Trillion Guide website!</h1>
-        <p>This is a community-made website for the mobile game, One in a Trillion. Check out some of the community guides, calculators, or tables that can help you improve your skills in the game! Read a money-making guide, use a lucky sauce calculator, or even make a guide of your own.</p>
+        <p>This is a community-made website for the mobile game, One in a Trillion. Check out some of the community guides, calculators, or tables that can help you improve your skills in the game! Read a money-making guide, use a lucky sauce calculator, or even <a href="https://github.com/dragon314159/OiaT-Guides/tree/gh-pages" target="_blank" class="bold-link" >make a guide</a> of your own.</p>
     </div>
     <ul class="post-container">
         {% for post in site.posts limit:12 %}
             <div class="post">
                 <a href="{{ post.url | relative_url }}">
+                    {% if post.image %}
                     <img class="post-image" src="{{post.image}}">
+                    {% else %}
+                    <img class="post-image" src="images\\making-guides.jpg">
+                    {% endif %}
                 </a>
                 <a href="{{ post.url | relative_url }}">
                     <p class="post-title">{{post.title}}</p>
