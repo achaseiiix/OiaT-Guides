@@ -14,11 +14,17 @@ layout: default
     a:hover {
         color: rgb(169,32,219);
     }
+
     .container {
         display: flex;
         flex-wrap: wrap;
-        padding: 50px;
         justify-content: center;
+    }
+
+    .intro {
+        background-color: lightgray;
+        color: black;
+        padding: 50px;
     }
 
     .post-container {
@@ -29,6 +35,7 @@ layout: default
         justify-content: center;
         gap: 50px;
         text-align: center;
+        padding: 50px;
     }
 
     .post {
@@ -76,6 +83,10 @@ layout: default
 </style>
 
 <div class="container">
+    <div class="intro">
+        <h1>Welcome to the One in a Trillion Guide website!</h1>
+        <p>This is a community-made website for the mobile game, One in a Trillion. Check out some of the community guides, calculators, or tables that can help you improve your skills in the game! Read a money-making guide, use a lucky sauce calculator, or even make a guide of your own.</p>
+    </div>
     <ul class="post-container">
         {% for post in site.posts limit:12 %}
             <div class="post">
