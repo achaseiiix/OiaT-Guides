@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /guides/
+permalink: /tables/
 ---
 
 <style>
@@ -9,17 +9,17 @@ permalink: /guides/
         background-color: lightgrey;
     }
 
-    .guides-container {
+    .tables-container {
         padding: 50px;
     }
 
-    .guides {
+    .tables {
         list-style: circle;
         list-style-position: inside;
         display: inline;
     }
 
-    .guide {
+    .table {
         margin-bottom: 5px;
     }
 
@@ -27,14 +27,14 @@ permalink: /guides/
 
 <div>
     <div class="heading">
-        <h1>A List of All Guides</h1>
+        <h1>A List of All Tables</h1>
     </div>
 
-    <div class="guides-container">
-        <ul class="guides">
+    <div class="tables-container">
+        <ul class="tables">
             {% for post in site.posts %}
-                {% if post.type == 'guide' %}
-                    <li class="guide"><a href="{{site.baseurl}}{{post.permalink}}">{{post.title}}</a></li>
+                {% if post.type == 'table' %}
+                    <li class="table"><a href="{{site.baseurl}}{{post.permalink}}">{{post.title}}</a></li>
                 {% endif %}
             {% endfor %}
         </ul>

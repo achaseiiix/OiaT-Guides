@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /guides/
+permalink: /calculators/
 ---
 
 <style>
@@ -9,17 +9,17 @@ permalink: /guides/
         background-color: lightgrey;
     }
 
-    .guides-container {
+    .calculators-container {
         padding: 50px;
     }
 
-    .guides {
+    .calculators {
         list-style: circle;
         list-style-position: inside;
         display: inline;
     }
 
-    .guide {
+    .calculator {
         margin-bottom: 5px;
     }
 
@@ -27,14 +27,14 @@ permalink: /guides/
 
 <div>
     <div class="heading">
-        <h1>A List of All Guides</h1>
+        <h1>A List of All Calculators</h1>
     </div>
 
-    <div class="guides-container">
-        <ul class="guides">
+    <div class="calculators-container">
+        <ul class="calculators">
             {% for post in site.posts %}
-                {% if post.type == 'guide' %}
-                    <li class="guide"><a href="{{site.baseurl}}{{post.permalink}}">{{post.title}}</a></li>
+                {% if post.type == 'calculator' %}
+                    <li class="calculator"><a href="{{site.baseurl}}{{post.permalink}}">{{post.title}}</a></li>
                 {% endif %}
             {% endfor %}
         </ul>
