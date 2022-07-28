@@ -6,7 +6,7 @@ Guides on this page are Mardown documents. Markdown is a markup language that al
 
 ### Before Writing Your Guide
 
-1. Create a file named YYYY-MM-DD-yourtitle.md
+1. Create a file named YYYY-MM-DD-yourtitle.md (fill the current year, month, day, and your title in)
 2. Add the following code to the top of your file (copy it exactly)
 
     ```
