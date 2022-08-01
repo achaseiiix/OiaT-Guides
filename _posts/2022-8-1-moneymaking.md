@@ -16,6 +16,7 @@ As in almost every game, having money allows you to do a lot more. In this guide
 
 ### Some things to keep in mind as you play the game. These rules will be focused on money making, so just keep them in mind as you play if this is your main goal.
 
+
 - These money making methods are still subject to the randomness of this game. They’ll make you money in the long run, but it’s possible to have unlucky streaks that may lose you money short-term.  Trust the methods - they work
 - Following the last rule, it’s not necessary to do more at a time (ex. Saving up 100 dirty eggs) - it just may feel better since you’re more likely to come out ahead on a larger batch of eggs
 - You don’t need to keep 1 of every egg - they’re only for collection & being able to set it as your profile pic. If you get a new rare egg, don’t be afraid to sell it to move to higher value cleans
@@ -81,6 +82,7 @@ There are a few things in this game that you can spend money on besides dirty eg
 There aren’t really any recommendations as to what to buy, since nothing provides a significant advantage in terms of collection or completion.  However, scavenger hunt eggs are much easier with clues and gem/dirty egg storage is nice for QoL. 
 
 List of purchasable items
+
 
 - Red gem storage
   - $10k, multiplies by 10 for each upgrade, up to $100b (infinite purchases)
