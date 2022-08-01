@@ -8,13 +8,13 @@ type: guide
 author: dragon314
 ---
 
-### Introduction
+## Introduction
 
 As in almost every game, having money allows you to do a lot more. In this guide, we’ll help you make trillions quickly so that you can unlock high value eggs, expand storages, and more.
 
-### General rules
+## General rules
 
-#### Some things to keep in mind as you play the game. These rules will be focused on money making, so just keep them in mind as you play if this is your main goal.
+### Some things to keep in mind as you play the game. These rules will be focused on money making, so just keep them in mind as you play if this is your main goal.
 
 - These money making methods are still subject to the randomness of this game. They’ll make you money in the long run, but it’s possible to have unlucky streaks that may lose you money short-term.  Trust the methods - they work
 - Following the last rule, it’s not necessary to do more at a time (ex. Saving up 100 dirty eggs) - it just may feel better since you’re more likely to come out ahead on a larger batch of eggs
@@ -23,9 +23,9 @@ As in almost every game, having money allows you to do a lot more. In this guide
 - Don’t spend money when it’s more than 10% of your current wallet - slows down your growth as it'll prevent you from moving to higher value cleans
 
 
-### Starting out - Early game
+## Starting out - Early game
 
-#### This section is for people with under 1b in wallet
+### This section is for people with under 1b in wallet
 
 If you’ve just started the game, you’ll want to get to level 7 as quickly as possible to unlock 700k scrambles.  While doing this, collect as many eggs and free tap blasts/scrambles as you can.  After reaching level 7, your goal is to save up for 700k scrambles and do as many as you can.  For this stage, I’d recommend letting your blue gems max out, so you can only collect red gems to use for this.
 
@@ -40,9 +40,9 @@ Check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1L66S3tMoRRh
 In terms of spending money, I’d recommend only buying things once they’re less than 10% of your wallet.  This ensures that it doesn’t affect your wallet much so that you can keep doing high level cleans.
 
 
-### Midgame money making
+## Midgame money making
 
-#### This section is for people with over 1b in wallet
+### This section is for people with over 1b in wallet
 
 Once you’ve reached the midgame, money becomes all about snowballing your wallet with cleans into higher tiers until you eventually reach the one in a trillion eggs and can use billions of sauce per egg.
 
@@ -58,23 +58,23 @@ You can regularly do cleans of the value that’s recommended for your current w
 In terms of spending money, I’d recommend only buying things once they’re less than 10% of your wallet.  This ensures that it doesn’t affect your wallet much so that you can keep doing high level cleans.
 
 
-### Late game money making
+## Late game money making
 
-#### This section is for people who have earned multiple 1 in a trillion eggs & have hundreds of billions in wallet.
+### This section is for people who have earned multiple 1 in a trillion eggs & have hundreds of billions in wallet.
 
 At this point, there are 2 options for further progression, which you can switch between at any time. 
 
-##### If you want to keep maximizing money -
+#### If you want to keep maximizing money -
 This allows for a quickly expanding wallet to buy storage upgrades and save up for eventual high value cleans.
 For this approach, you’ll want to use 3.65b sauce per clean. This value was calculated to provide the maximum profit per clean on average, not counting ??? eggs.
 
-##### If you want to maximize the amount of ??? eggs earned -
+#### If you want to maximize the amount of ??? eggs earned -
 This allows for either a ??? collection to flex or eggs to sell for gems to increase your taps through gem pops.
 For this approach, you’ll want to use between 3.65b and 12b sauce per clean. At 12b, according to the cleaning spreadsheet, you’ll come out around even in regards to money spent and money earned while having a better chance at ??? eggs. You can do higher values, but keep in mind that you’ll be losing money - just make sure to keep arount 1t as safety in case you need to return to 1.3b or 3.65b cleans.
 
 There’s not much to do after this point besides spend your (very hard earned) money!
 
-### Spending money
+## Spending money
 
 There are a few things in this game that you can spend money on besides dirty egg cleans.  As suggested in the general rules, you shouldn't buy things over 10% of your wallet since it slows down your money snowball. 
 
