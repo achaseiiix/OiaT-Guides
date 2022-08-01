@@ -16,13 +16,13 @@ As in almost every game, having money allows you to do a lot more. In this guide
 
 ### Some things to keep in mind as you play the game. These rules will be focused on money making, so just keep them in mind as you play if this is your main goal.
 
-
-- These money making methods are still subject to the randomness of this game. They’ll make you money in the long run, but it’s possible to have unlucky streaks that may lose you money short-term.  Trust the methods - they work
-- Following the last rule, it’s not necessary to do more at a time (ex. Saving up 100 dirty eggs) - it just may feel better since you’re more likely to come out ahead on a larger batch of eggs
-- You don’t need to keep 1 of every egg - they’re only for collection & being able to set it as your profile pic. If you get a new rare egg, don’t be afraid to sell it to move to higher value cleans
-- In terms of cleans, at lower levels everything is (mathematically) profitable. The values given here are suggestions for what works the best / is more consistent, but other values can still work
-- Don’t spend money when it’s more than 10% of your current wallet - slows down your growth as it'll prevent you from moving to higher value cleans
-
+<ul>
+  <li>These money making methods are still subject to the randomness of this game. They’ll make you money in the long run, but it’s possible to have unlucky streaks that may lose you money short-term.  Trust the methods - they work</li>
+  <li>Following the last rule, it’s not necessary to do more at a time (ex. Saving up 100 dirty eggs) - it just may feel better since you’re more likely to come out ahead on a larger batch of eggs</li>
+  <li>You don’t need to keep 1 of every egg - they’re only for collection & being able to set it as your profile pic. If you get a new rare egg, don’t be afraid to sell it to move to higher value cleans</li>
+  <li>In terms of cleans, at lower levels everything is (mathematically) profitable. The values given here are suggestions for what works the best / is more consistent, but other values can still work</li>
+  <li>Don’t spend money when it’s more than 10% of your current wallet - slows down your growth as it'll prevent you from moving to higher value cleans</li>
+</ul>
 
 ## Starting out - Early game
 
