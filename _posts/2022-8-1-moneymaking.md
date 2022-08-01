@@ -61,7 +61,7 @@ In terms of spending money, I’d recommend only buying things once they’re le
 
 ## Late game money making
 
-### This section is for people who have earned multiple 1 in a trillion eggs & have hundreds of billions in wallet.
+### This section is for people with over 1t in wallet
 
 At this point, there are 2 options for further progression, which you can switch between at any time. 
 
@@ -73,7 +73,7 @@ For this approach, you’ll want to use 3.65b sauce per clean. This value was ca
 This allows for either a ??? collection to flex or eggs to sell for gems to increase your taps through gem pops.
 For this approach, you’ll want to use between 3.65b and 12b sauce per clean. At 12b, according to the cleaning spreadsheet, you’ll come out around even in regards to money spent and money earned while having a better chance at ??? eggs. You can do higher values, but keep in mind that you’ll be losing money - just make sure to keep arount 1t as safety in case you need to return to 1.3b or 3.65b cleans.
 
-There’s not much to do after this point besides spend your (very hard earned) money!
+Now there’s not much to do after this point besides spend your (very hard earned) money!
 
 ## Spending money
 
@@ -98,8 +98,8 @@ List of purchasable items
   - First 5 upgrades are $3k, $10, $25k, $50k, $100k; increase storage by 10
   - $1m, multiplies by 10 for each upgrade, up to $100b (infinite purchases)
   - Increases dirty egg storage by 20
-- QoL
-  - Do not buy
+  - QoL
+- Do not buy
   - $10m, increases to 10% of your wallet if above $100m (infinite purchases)
   - Gives personal code in discord (only need to buy once)
   - Necessary for scavenger hunt (collection)
