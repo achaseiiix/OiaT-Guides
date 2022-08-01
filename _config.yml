@@ -56,6 +56,8 @@ sass:
 # Added by dragon to fix some markdown issues
 markdown: redcarpet
 redcarpet:
+  include:
+    - 2022-8-1-moneymaking
   extensions:
     - no_intra_emphasis
     - fenced_code_blocks
