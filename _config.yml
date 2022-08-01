@@ -53,16 +53,16 @@ sass:
 #   - vendor/ruby/
 
 
-# Added by dragon to fix some markdown issues
-markdown: redcarpet
-redcarpet:
-  include:
-    - 2022-8-1-moneymaking
-  extensions:
-    - no_intra_emphasis
-    - fenced_code_blocks
-    - autolink
-    - tables
-    - strikethrough
-    - superscript
-    - with_to_data
+# Added by dragon to try to fix some markdown issues
+# markdown: redcarpet
+# redcarpet:
+#   include:
+#     - 2022-8-1-moneymaking
+#   extensions:
+#     - no_intra_emphasis
+#     - fenced_code_blocks
+#     - autolink
+#     - tables
+#     - strikethrough
+#     - superscript
+#     - with_to_data
