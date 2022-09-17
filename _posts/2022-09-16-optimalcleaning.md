@@ -10,7 +10,7 @@ author: achaseiiix
 
 ## Introduction
 
-This guide will teach you how to clean optimally. It details how to make the most money from cleaning possible. If you are not familiar with cleaning or how it can make money, please check out this **[Introduction to Cleaning Guide]({% post_url 2022-09-16-intro-cleaning %})** I wrote. It is important to note that all of this is based off of math that I programmed a computer to calculate. It is likely that it is off by a small degree due to numerical precision and potential human error, but I am confident that the principles will hold nonetheless.
+This guide will teach you how to clean optimally. It details how to make the most money from cleaning possible. If you are not familiar with cleaning or how it can make money, please check out this **[Introduction to Cleaning Guide]({{site.baseurl}}{% post_url 2022-09-16-intro-cleaning %})** I wrote. It is important to note that all of this is based off of math that I programmed a computer to calculate. It is likely that it is off by a small degree due to numerical precision and potential human error, but I am confident that the principles will hold nonetheless.
 
 ## Sauce Thresholds
 

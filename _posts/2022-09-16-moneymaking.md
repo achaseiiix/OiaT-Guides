@@ -16,7 +16,7 @@ I recommend that you resist tap blasts or cleaning at this stage. Dirty eggs are
 
 ## Wallet 500m+
 
-With more than 500m in your wallet, you should start transitioning from doing scrambles to focusing on cleaning eggs. I recommend you read my **[Optimal Cleaning Guide]({% post_url 2022-09-16-optimalcleaning %})**. In short, follow cleans using the table below.
+With more than 500m in your wallet, you should start transitioning from doing scrambles to focusing on cleaning eggs. I recommend you read my **[Optimal Cleaning Guide]({{site.baseurl}}{% post_url 2022-09-16-optimalcleaning %})**. In short, follow cleans using the table below.
 
 <div style='display:flex;justify-content:center;'>
 <div class='table-wrapper' markdown='block'>
