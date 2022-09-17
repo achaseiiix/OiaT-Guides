@@ -163,3 +163,7 @@ f <- function(x) {
 Feel free to run $$f(sauce)$$ if you have R to see what the expected profit of a sauce value is! I plan on putting this as a calculator on the site too. :)
 
 Thanks for reading!
+
+#### Acknowledgments 
+
+Credit should go to dragon for laying the groundwork for this math and for xyz123 for doing the math for cleaning profits and some work on safe betting values.
