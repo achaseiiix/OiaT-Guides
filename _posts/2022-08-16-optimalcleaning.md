@@ -2,7 +2,7 @@
 layout: post
 title: Optimal Cleaning
 permalink: /optimal-cleaning-guide/
-image: "images\\cleaning-profit-guide.jpg"
+image: "images\\optimal-profit-guide.jpg"
 description: Learn how to make the most money from cleaning!
 type: guide
 author: achaseiiix
