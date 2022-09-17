@@ -40,7 +40,7 @@ If you don't care to play completely optimally and just want an idea on what to 
 
 If you want to know more about why I have chosen those sauce thresholds, first consider the graph below.
 
-![maximum cleaning profit graph](\\images\\max-profit.png)
+{% include profits.html %}
 
 As can be seen, the expected profit per clean steadily increases as you put more sauce into an egg. It peaks at around **3.95b sauce**, the sauce value with the maximum expected profit. Any value above that is still profitable, but less so than 3.95b. The main takeaway here is that there **are no magic numbers**. 
 
