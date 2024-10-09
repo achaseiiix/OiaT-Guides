@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   One in a Trillion guides, calculators, and more.
 baseurl: "/OiaT-Guides/" # the subpath of your site, e.g. /blog
-url: "https://acoursey3.github.io/OiaT-Guides/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://achaseiiix.github.io/OiaT-Guides/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
